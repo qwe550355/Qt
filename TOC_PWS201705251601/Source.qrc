@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>Source/cheer.ico</file>
+        <file>Source/Cheer.jpg</file>
+        <file>Source/com_motorola_camera.ico</file>
+        <file>Source/dot_green.ico</file>
+        <file>Source/dot_red.ico</file>
+    </qresource>
+</RCC>

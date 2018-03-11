@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>Source/cheer.ico</file>
+        <file>Source/Cheer.jpg</file>
+        <file>Source/CheerLast.jpg</file>
+        <file>Source/com_motorola_camera.ico</file>
+        <file>Source/dot_green.ico</file>
+        <file>Source/dot_red.ico</file>
+        <file>Source/溶氧背景图.png</file>
+        <file>Source/setting.png</file>
+        <file>Source/TOCSTate1.png</file>
+        <file>Source/TocSTAte2.png</file>
+        <file>Source/Transparent.png</file>
+    </qresource>
+</RCC>
